@@ -25,6 +25,7 @@
     "react-dom": "17.0.2",
     "react-markdown": "^8.0.0",
     "react-simplemde-editor": "^5.0.2",
+    "urql": "^2.2.0",
     "web3modal": "^1.9.5"
   },
   "devDependencies": {
